@@ -1,0 +1,12 @@
+Project: Glam AI Editor
+Objective: Build a mobile creative suite with one-tap AI features.
+Tech Stack: React Native / Expo.
+Phase 1 Strategy:
+
+Setup project environment.
+
+Implement media selection.
+
+Establish basic state management for edits.
+
+Integrate lightweight AI/Image processing for "one-tap" effects.
